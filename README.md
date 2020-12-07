@@ -1,3 +1,3 @@
 ## SIGMA SCHOOL
 
-# Let's build
+#My blog: https://adhyayanpradhan.github.io/sigma-school/
